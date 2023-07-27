@@ -1,5 +1,3 @@
-Sure! Here's an elaborated version of the description for your GitHub README file:
-
 # Prediction of Heart Failure Disease using Random Forest Classifier
 
 ## Introduction
