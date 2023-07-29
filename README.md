@@ -1,4 +1,4 @@
-# Prediction of Heart Failure Disease using Random Forest Classifier
+# Prediction of Heart Failure Disease using Machine learning models 
 
 ## Introduction
 
