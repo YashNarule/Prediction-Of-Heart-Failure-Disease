@@ -7,7 +7,7 @@ import warnings
 import pickle
 warnings.filterwarnings("ignore")
 
-heart_data = pd.read_csv('D:\\special\\.dist\\project\\Untitled spreadsheet - Sheet1 (2).csv')
+heart_data = pd.read_csv('C:\\Users\\Admin\\Desktop\\Prediction-Of-Heart-Failure-Disease\\Untitled spreadsheet - Sheet1 (2).csv')
 
 X = heart_data.drop(columns='Result', axis=1)
 Y = heart_data['Result']
